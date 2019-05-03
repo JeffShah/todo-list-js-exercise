@@ -19,8 +19,8 @@ function newTask(title, description) {
 
 // DRIVER CODE CHANGES BELOW
 
-const task1 = newTask("Clean Cat Litter", "Take all the 💩 out of the litter box");
-const task2 = newTask("Do Laundry", "😨");
+const task1 = newTask("Clean Cat Litter", "Take all the crap out of the litter box");
+const task2 = newTask("Do Laundry", "right away");
 const tasks = [task1, task2];
 
 task1.logState(); // Clean Cat Litter has not been completed
